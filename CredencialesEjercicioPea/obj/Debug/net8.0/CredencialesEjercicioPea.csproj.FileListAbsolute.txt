@@ -1,0 +1,15 @@
+C:\Users\anela\ejercicio-pea-cristina\CredencialesEjercicioPea\bin\Debug\net8.0\CredencialesEjercicioPea.exe
+C:\Users\anela\ejercicio-pea-cristina\CredencialesEjercicioPea\bin\Debug\net8.0\CredencialesEjercicioPea.deps.json
+C:\Users\anela\ejercicio-pea-cristina\CredencialesEjercicioPea\bin\Debug\net8.0\CredencialesEjercicioPea.runtimeconfig.json
+C:\Users\anela\ejercicio-pea-cristina\CredencialesEjercicioPea\bin\Debug\net8.0\CredencialesEjercicioPea.dll
+C:\Users\anela\ejercicio-pea-cristina\CredencialesEjercicioPea\bin\Debug\net8.0\CredencialesEjercicioPea.pdb
+C:\Users\anela\ejercicio-pea-cristina\CredencialesEjercicioPea\obj\Debug\net8.0\CredencialesEjercicioPea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anela\ejercicio-pea-cristina\CredencialesEjercicioPea\obj\Debug\net8.0\CredencialesEjercicioPea.AssemblyInfoInputs.cache
+C:\Users\anela\ejercicio-pea-cristina\CredencialesEjercicioPea\obj\Debug\net8.0\CredencialesEjercicioPea.AssemblyInfo.cs
+C:\Users\anela\ejercicio-pea-cristina\CredencialesEjercicioPea\obj\Debug\net8.0\CredencialesEjercicioPea.csproj.CoreCompileInputs.cache
+C:\Users\anela\ejercicio-pea-cristina\CredencialesEjercicioPea\obj\Debug\net8.0\CredencialesEjercicioPea.sourcelink.json
+C:\Users\anela\ejercicio-pea-cristina\CredencialesEjercicioPea\obj\Debug\net8.0\CredencialesEjercicioPea.dll
+C:\Users\anela\ejercicio-pea-cristina\CredencialesEjercicioPea\obj\Debug\net8.0\refint\CredencialesEjercicioPea.dll
+C:\Users\anela\ejercicio-pea-cristina\CredencialesEjercicioPea\obj\Debug\net8.0\CredencialesEjercicioPea.pdb
+C:\Users\anela\ejercicio-pea-cristina\CredencialesEjercicioPea\obj\Debug\net8.0\CredencialesEjercicioPea.genruntimeconfig.cache
+C:\Users\anela\ejercicio-pea-cristina\CredencialesEjercicioPea\obj\Debug\net8.0\ref\CredencialesEjercicioPea.dll
